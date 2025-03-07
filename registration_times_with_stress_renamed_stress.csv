@@ -1,0 +1,396 @@
+Timestamp,Tempo gasto (ms),nf,stress_test
+06/03/2025 23:59,455,all,none
+06/03/2025 23:59,454,all,none
+06/03/2025 23:59,444,all,none
+06/03/2025 23:59,452,all,none
+06/03/2025 23:59,452,all,none
+06/03/2025 23:59,459,all,none
+06/03/2025 23:59,448,all,none
+06/03/2025 23:59,445,all,none
+06/03/2025 23:59,453,all,none
+06/03/2025 23:59,446,all,none
+06/03/2025 23:59,443,all,none
+06/03/2025 23:59,447,all,none
+06/03/2025 23:59,446,all,none
+06/03/2025 23:59,454,all,none
+06/03/2025 23:59,474,all,none
+06/03/2025 23:59,1586,free5gc-amf,CPU
+06/03/2025 23:59,1896,free5gc-amf,CPU
+06/03/2025 23:59,1587,free5gc-amf,CPU
+06/03/2025 23:59,1695,free5gc-amf,CPU
+06/03/2025 23:59,1598,free5gc-amf,CPU
+06/03/2025 23:59,1590,free5gc-amf,CPU
+07/03/2025 00:00,1695,free5gc-amf,CPU
+07/03/2025 00:00,822,free5gc-amf,CPU
+07/03/2025 00:00,822,free5gc-amf,Memory
+07/03/2025 00:00,454,free5gc-amf,Memory
+07/03/2025 00:00,458,free5gc-amf,Memory
+07/03/2025 00:00,455,free5gc-amf,Memory
+07/03/2025 00:00,677,free5gc-amf,Memory
+07/03/2025 00:00,460,free5gc-amf,Memory
+07/03/2025 00:00,539,free5gc-amf,Memory
+07/03/2025 00:00,481,free5gc-amf,Memory
+07/03/2025 00:00,519,free5gc-amf,Memory
+07/03/2025 00:00,457,free5gc-amf,Memory
+07/03/2025 00:00,507,free5gc-amf,Memory
+07/03/2025 00:00,455,free5gc-amf,Memory
+07/03/2025 00:00,527,free5gc-amf,Memory
+07/03/2025 00:00,504,free5gc-amf,Memory
+07/03/2025 00:00,460,free5gc-amf,CPU + Memory
+07/03/2025 00:00,2124,free5gc-amf,CPU + Memory
+07/03/2025 00:00,1787,free5gc-amf,CPU + Memory
+07/03/2025 00:00,1796,free5gc-amf,CPU + Memory
+07/03/2025 00:00,3202,free5gc-amf,CPU + Memory
+07/03/2025 00:00,1289,free5gc-amf,CPU + Memory
+07/03/2025 00:00,2689,free5gc-amf,CPU + Memory
+07/03/2025 00:00,459,free5gc-amf,CPU + Memory
+07/03/2025 00:00,857,free5gc-ausf,CPU
+07/03/2025 00:00,697,free5gc-ausf,CPU
+07/03/2025 00:00,790,free5gc-ausf,CPU
+07/03/2025 00:01,1092,free5gc-ausf,CPU
+07/03/2025 00:01,995,free5gc-ausf,CPU
+07/03/2025 00:01,800,free5gc-ausf,CPU
+07/03/2025 00:01,896,free5gc-ausf,CPU
+07/03/2025 00:01,785,free5gc-ausf,CPU
+07/03/2025 00:01,802,free5gc-ausf,CPU
+07/03/2025 00:01,1088,free5gc-ausf,CPU
+07/03/2025 00:01,711,free5gc-ausf,CPU
+07/03/2025 00:01,484,free5gc-ausf,Memory
+07/03/2025 00:01,457,free5gc-ausf,Memory
+07/03/2025 00:01,597,free5gc-ausf,Memory
+07/03/2025 00:01,457,free5gc-ausf,Memory
+07/03/2025 00:01,474,free5gc-ausf,Memory
+07/03/2025 00:01,458,free5gc-ausf,Memory
+07/03/2025 00:01,525,free5gc-ausf,Memory
+07/03/2025 00:01,462,free5gc-ausf,Memory
+07/03/2025 00:01,529,free5gc-ausf,Memory
+07/03/2025 00:01,457,free5gc-ausf,Memory
+07/03/2025 00:01,524,free5gc-ausf,Memory
+07/03/2025 00:01,467,free5gc-ausf,Memory
+07/03/2025 00:01,679,free5gc-ausf,Memory
+07/03/2025 00:01,496,free5gc-ausf,Memory
+07/03/2025 00:01,496,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,719,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,1197,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,692,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,1296,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,1800,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,680,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,1099,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,1090,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,1099,free5gc-ausf,CPU + Memory
+07/03/2025 00:01,471,free5gc-ausf,CPU + Memory
+07/03/2025 00:02,1098,free5gc-nrf,CPU
+07/03/2025 00:02,777,free5gc-nrf,CPU
+07/03/2025 00:02,810,free5gc-nrf,CPU
+07/03/2025 00:02,775,free5gc-nrf,CPU
+07/03/2025 00:02,1096,free5gc-nrf,CPU
+07/03/2025 00:02,1095,free5gc-nrf,CPU
+07/03/2025 00:02,1291,free5gc-nrf,CPU
+07/03/2025 00:02,1096,free5gc-nrf,CPU
+07/03/2025 00:02,1196,free5gc-nrf,CPU
+07/03/2025 00:02,1392,free5gc-nrf,CPU
+07/03/2025 00:02,1392,free5gc-nrf,Memory
+07/03/2025 00:02,492,free5gc-nrf,Memory
+07/03/2025 00:02,493,free5gc-nrf,Memory
+07/03/2025 00:02,455,free5gc-nrf,Memory
+07/03/2025 00:02,635,free5gc-nrf,Memory
+07/03/2025 00:02,491,free5gc-nrf,Memory
+07/03/2025 00:02,457,free5gc-nrf,Memory
+07/03/2025 00:02,536,free5gc-nrf,Memory
+07/03/2025 00:02,507,free5gc-nrf,Memory
+07/03/2025 00:02,453,free5gc-nrf,Memory
+07/03/2025 00:02,455,free5gc-nrf,Memory
+07/03/2025 00:02,561,free5gc-nrf,Memory
+07/03/2025 00:02,457,free5gc-nrf,Memory
+07/03/2025 00:02,455,free5gc-nrf,Memory
+07/03/2025 00:02,470,free5gc-nrf,CPU + Memory
+07/03/2025 00:02,1094,free5gc-nrf,CPU + Memory
+07/03/2025 00:02,1196,free5gc-nrf,CPU + Memory
+07/03/2025 00:02,1192,free5gc-nrf,CPU + Memory
+07/03/2025 00:02,1393,free5gc-nrf,CPU + Memory
+07/03/2025 00:02,1396,free5gc-nrf,CPU + Memory
+07/03/2025 00:02,1992,free5gc-nrf,CPU + Memory
+07/03/2025 00:03,1195,free5gc-nrf,CPU + Memory
+07/03/2025 00:03,1386,free5gc-nrf,CPU + Memory
+07/03/2025 00:03,503,free5gc-nrf,CPU + Memory
+07/03/2025 00:03,453,free5gc-nssf,CPU
+07/03/2025 00:03,468,free5gc-nssf,CPU
+07/03/2025 00:03,453,free5gc-nssf,CPU
+07/03/2025 00:03,605,free5gc-nssf,CPU
+07/03/2025 00:03,456,free5gc-nssf,CPU
+07/03/2025 00:03,462,free5gc-nssf,CPU
+07/03/2025 00:03,453,free5gc-nssf,CPU
+07/03/2025 00:03,504,free5gc-nssf,CPU
+07/03/2025 00:03,458,free5gc-nssf,CPU
+07/03/2025 00:03,459,free5gc-nssf,CPU
+07/03/2025 00:03,467,free5gc-nssf,CPU
+07/03/2025 00:03,499,free5gc-nssf,CPU
+07/03/2025 00:03,451,free5gc-nssf,CPU
+07/03/2025 00:03,454,free5gc-nssf,CPU
+07/03/2025 00:03,454,free5gc-nssf,Memory
+07/03/2025 00:03,454,free5gc-nssf,Memory
+07/03/2025 00:03,451,free5gc-nssf,Memory
+07/03/2025 00:03,469,free5gc-nssf,Memory
+07/03/2025 00:03,463,free5gc-nssf,Memory
+07/03/2025 00:03,500,free5gc-nssf,Memory
+07/03/2025 00:03,487,free5gc-nssf,Memory
+07/03/2025 00:03,463,free5gc-nssf,Memory
+07/03/2025 00:03,456,free5gc-nssf,Memory
+07/03/2025 00:03,459,free5gc-nssf,Memory
+07/03/2025 00:03,456,free5gc-nssf,Memory
+07/03/2025 00:03,519,free5gc-nssf,Memory
+07/03/2025 00:03,457,free5gc-nssf,Memory
+07/03/2025 00:03,459,free5gc-nssf,Memory
+07/03/2025 00:03,459,free5gc-nssf,Memory
+07/03/2025 00:03,458,free5gc-nssf,CPU + Memory
+07/03/2025 00:03,464,free5gc-nssf,CPU + Memory
+07/03/2025 00:03,464,free5gc-nssf,CPU + Memory
+07/03/2025 00:03,476,free5gc-nssf,CPU + Memory
+07/03/2025 00:03,454,free5gc-nssf,CPU + Memory
+07/03/2025 00:03,466,free5gc-nssf,CPU + Memory
+07/03/2025 00:03,455,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,455,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,463,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,464,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,514,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,481,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,497,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,455,free5gc-nssf,CPU + Memory
+07/03/2025 00:04,495,free5gc-pcf,CPU
+07/03/2025 00:04,499,free5gc-pcf,CPU
+07/03/2025 00:04,688,free5gc-pcf,CPU
+07/03/2025 00:04,794,free5gc-pcf,CPU
+07/03/2025 00:04,498,free5gc-pcf,CPU
+07/03/2025 00:04,488,free5gc-pcf,CPU
+07/03/2025 00:04,496,free5gc-pcf,CPU
+07/03/2025 00:04,498,free5gc-pcf,CPU
+07/03/2025 00:04,592,free5gc-pcf,CPU
+07/03/2025 00:04,590,free5gc-pcf,CPU
+07/03/2025 00:04,494,free5gc-pcf,CPU
+07/03/2025 00:04,691,free5gc-pcf,CPU
+07/03/2025 00:04,497,free5gc-pcf,CPU
+07/03/2025 00:04,490,free5gc-pcf,CPU
+07/03/2025 00:04,490,free5gc-pcf,Memory
+07/03/2025 00:04,519,free5gc-pcf,Memory
+07/03/2025 00:04,474,free5gc-pcf,Memory
+07/03/2025 00:04,456,free5gc-pcf,Memory
+07/03/2025 00:04,526,free5gc-pcf,Memory
+07/03/2025 00:04,504,free5gc-pcf,Memory
+07/03/2025 00:04,491,free5gc-pcf,Memory
+07/03/2025 00:04,487,free5gc-pcf,Memory
+07/03/2025 00:04,493,free5gc-pcf,Memory
+07/03/2025 00:04,453,free5gc-pcf,Memory
+07/03/2025 00:04,534,free5gc-pcf,Memory
+07/03/2025 00:04,491,free5gc-pcf,Memory
+07/03/2025 00:04,598,free5gc-pcf,Memory
+07/03/2025 00:04,505,free5gc-pcf,Memory
+07/03/2025 00:04,505,free5gc-pcf,CPU + Memory
+07/03/2025 00:04,585,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,694,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,792,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,691,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,795,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,691,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,802,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,587,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,498,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,589,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,604,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,586,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,506,free5gc-pcf,CPU + Memory
+07/03/2025 00:05,483,free5gc-smf,CPU
+07/03/2025 00:05,459,free5gc-smf,CPU
+07/03/2025 00:05,457,free5gc-smf,CPU
+07/03/2025 00:05,460,free5gc-smf,CPU
+07/03/2025 00:05,501,free5gc-smf,CPU
+07/03/2025 00:05,498,free5gc-smf,CPU
+07/03/2025 00:05,483,free5gc-smf,CPU
+07/03/2025 00:05,491,free5gc-smf,CPU
+07/03/2025 00:05,457,free5gc-smf,CPU
+07/03/2025 00:05,456,free5gc-smf,CPU
+07/03/2025 00:05,455,free5gc-smf,CPU
+07/03/2025 00:05,465,free5gc-smf,CPU
+07/03/2025 00:05,457,free5gc-smf,CPU
+07/03/2025 00:05,456,free5gc-smf,CPU
+07/03/2025 00:05,456,free5gc-smf,Memory
+07/03/2025 00:05,453,free5gc-smf,Memory
+07/03/2025 00:05,455,free5gc-smf,Memory
+07/03/2025 00:05,498,free5gc-smf,Memory
+07/03/2025 00:05,481,free5gc-smf,Memory
+07/03/2025 00:05,501,free5gc-smf,Memory
+07/03/2025 00:05,491,free5gc-smf,Memory
+07/03/2025 00:05,456,free5gc-smf,Memory
+07/03/2025 00:05,455,free5gc-smf,Memory
+07/03/2025 00:05,479,free5gc-smf,Memory
+07/03/2025 00:05,462,free5gc-smf,Memory
+07/03/2025 00:05,456,free5gc-smf,Memory
+07/03/2025 00:06,464,free5gc-smf,Memory
+07/03/2025 00:06,474,free5gc-smf,Memory
+07/03/2025 00:06,462,free5gc-smf,Memory
+07/03/2025 00:06,462,free5gc-smf,CPU + Memory
+07/03/2025 00:06,462,free5gc-smf,CPU + Memory
+07/03/2025 00:06,461,free5gc-smf,CPU + Memory
+07/03/2025 00:06,473,free5gc-smf,CPU + Memory
+07/03/2025 00:06,521,free5gc-smf,CPU + Memory
+07/03/2025 00:06,455,free5gc-smf,CPU + Memory
+07/03/2025 00:06,529,free5gc-smf,CPU + Memory
+07/03/2025 00:06,455,free5gc-smf,CPU + Memory
+07/03/2025 00:06,462,free5gc-smf,CPU + Memory
+07/03/2025 00:06,482,free5gc-smf,CPU + Memory
+07/03/2025 00:06,452,free5gc-smf,CPU + Memory
+07/03/2025 00:06,527,free5gc-smf,CPU + Memory
+07/03/2025 00:06,456,free5gc-smf,CPU + Memory
+07/03/2025 00:06,465,free5gc-smf,CPU + Memory
+07/03/2025 00:06,449,free5gc-udm,CPU
+07/03/2025 00:06,1331,free5gc-udm,CPU
+07/03/2025 00:06,995,free5gc-udm,CPU
+07/03/2025 00:06,1795,free5gc-udm,CPU
+07/03/2025 00:06,1294,free5gc-udm,CPU
+07/03/2025 00:06,1496,free5gc-udm,CPU
+07/03/2025 00:06,1695,free5gc-udm,CPU
+07/03/2025 00:06,1294,free5gc-udm,CPU
+07/03/2025 00:06,1291,free5gc-udm,CPU
+07/03/2025 00:06,459,free5gc-udm,Memory
+07/03/2025 00:06,453,free5gc-udm,Memory
+07/03/2025 00:06,450,free5gc-udm,Memory
+07/03/2025 00:06,508,free5gc-udm,Memory
+07/03/2025 00:06,494,free5gc-udm,Memory
+07/03/2025 00:06,504,free5gc-udm,Memory
+07/03/2025 00:06,457,free5gc-udm,Memory
+07/03/2025 00:07,463,free5gc-udm,Memory
+07/03/2025 00:07,452,free5gc-udm,Memory
+07/03/2025 00:07,512,free5gc-udm,Memory
+07/03/2025 00:07,454,free5gc-udm,Memory
+07/03/2025 00:07,460,free5gc-udm,Memory
+07/03/2025 00:07,455,free5gc-udm,Memory
+07/03/2025 00:07,453,free5gc-udm,Memory
+07/03/2025 00:07,505,free5gc-udm,Memory
+07/03/2025 00:07,505,free5gc-udm,CPU + Memory
+07/03/2025 00:07,925,free5gc-udm,CPU + Memory
+07/03/2025 00:07,1997,free5gc-udm,CPU + Memory
+07/03/2025 00:07,2293,free5gc-udm,CPU + Memory
+07/03/2025 00:07,1792,free5gc-udm,CPU + Memory
+07/03/2025 00:07,2097,free5gc-udm,CPU + Memory
+07/03/2025 00:07,1294,free5gc-udm,CPU + Memory
+07/03/2025 00:07,1300,free5gc-udm,CPU + Memory
+07/03/2025 00:07,459,free5gc-udr,CPU
+07/03/2025 00:07,1176,free5gc-udr,CPU
+07/03/2025 00:07,900,free5gc-udr,CPU
+07/03/2025 00:07,1292,free5gc-udr,CPU
+07/03/2025 00:07,1287,free5gc-udr,CPU
+07/03/2025 00:07,1396,free5gc-udr,CPU
+07/03/2025 00:07,1203,free5gc-udr,CPU
+07/03/2025 00:07,1396,free5gc-udr,CPU
+07/03/2025 00:07,889,free5gc-udr,CPU
+07/03/2025 00:08,998,free5gc-udr,CPU
+07/03/2025 00:08,454,free5gc-udr,Memory
+07/03/2025 00:08,453,free5gc-udr,Memory
+07/03/2025 00:08,480,free5gc-udr,Memory
+07/03/2025 00:08,456,free5gc-udr,Memory
+07/03/2025 00:08,454,free5gc-udr,Memory
+07/03/2025 00:08,446,free5gc-udr,Memory
+07/03/2025 00:08,456,free5gc-udr,Memory
+07/03/2025 00:08,455,free5gc-udr,Memory
+07/03/2025 00:08,517,free5gc-udr,Memory
+07/03/2025 00:08,455,free5gc-udr,Memory
+07/03/2025 00:08,540,free5gc-udr,Memory
+07/03/2025 00:08,452,free5gc-udr,Memory
+07/03/2025 00:08,613,free5gc-udr,Memory
+07/03/2025 00:08,588,free5gc-udr,Memory
+07/03/2025 00:08,995,free5gc-udr,CPU + Memory
+07/03/2025 00:08,1491,free5gc-udr,CPU + Memory
+07/03/2025 00:08,1406,free5gc-udr,CPU + Memory
+07/03/2025 00:08,1489,free5gc-udr,CPU + Memory
+07/03/2025 00:08,997,free5gc-udr,CPU + Memory
+07/03/2025 00:08,1078,free5gc-udr,CPU + Memory
+07/03/2025 00:08,1994,free5gc-udr,CPU + Memory
+07/03/2025 00:08,1295,free5gc-udr,CPU + Memory
+07/03/2025 00:08,795,free5gc-udr,CPU + Memory
+07/03/2025 00:08,445,free5gc-upf,CPU
+07/03/2025 00:08,447,free5gc-upf,CPU
+07/03/2025 00:08,450,free5gc-upf,CPU
+07/03/2025 00:08,445,free5gc-upf,CPU
+07/03/2025 00:08,445,free5gc-upf,CPU
+07/03/2025 00:08,460,free5gc-upf,CPU
+07/03/2025 00:08,455,free5gc-upf,CPU
+07/03/2025 00:09,532,free5gc-upf,CPU
+07/03/2025 00:09,457,free5gc-upf,CPU
+07/03/2025 00:09,453,free5gc-upf,CPU
+07/03/2025 00:09,457,free5gc-upf,CPU
+07/03/2025 00:09,456,free5gc-upf,CPU
+07/03/2025 00:09,456,free5gc-upf,CPU
+07/03/2025 00:09,458,free5gc-upf,CPU
+07/03/2025 00:09,502,free5gc-upf,CPU
+07/03/2025 00:09,502,free5gc-upf,Memory
+07/03/2025 00:09,485,free5gc-upf,Memory
+07/03/2025 00:09,545,free5gc-upf,Memory
+07/03/2025 00:09,452,free5gc-upf,Memory
+07/03/2025 00:09,492,free5gc-upf,Memory
+07/03/2025 00:09,494,free5gc-upf,Memory
+07/03/2025 00:09,586,free5gc-upf,Memory
+07/03/2025 00:09,505,free5gc-upf,Memory
+07/03/2025 00:09,484,free5gc-upf,Memory
+07/03/2025 00:09,457,free5gc-upf,Memory
+07/03/2025 00:09,529,free5gc-upf,Memory
+07/03/2025 00:09,449,free5gc-upf,Memory
+07/03/2025 00:09,453,free5gc-upf,Memory
+07/03/2025 00:09,511,free5gc-upf,Memory
+07/03/2025 00:09,466,free5gc-upf,Memory
+07/03/2025 00:09,466,free5gc-upf,CPU + Memory
+07/03/2025 00:09,456,free5gc-upf,CPU + Memory
+07/03/2025 00:09,458,free5gc-upf,CPU + Memory
+07/03/2025 00:09,459,free5gc-upf,CPU + Memory
+07/03/2025 00:09,453,free5gc-upf,CPU + Memory
+07/03/2025 00:09,458,free5gc-upf,CPU + Memory
+07/03/2025 00:09,452,free5gc-upf,CPU + Memory
+07/03/2025 00:09,463,free5gc-upf,CPU + Memory
+07/03/2025 00:09,456,free5gc-upf,CPU + Memory
+07/03/2025 00:09,501,free5gc-upf,CPU + Memory
+07/03/2025 00:09,454,free5gc-upf,CPU + Memory
+07/03/2025 00:09,457,free5gc-upf,CPU + Memory
+07/03/2025 00:09,466,free5gc-upf,CPU + Memory
+07/03/2025 00:09,495,free5gc-upf,CPU + Memory
+07/03/2025 00:11,457,ueransim-gnb,CPU
+07/03/2025 00:11,456,ueransim-gnb,CPU
+07/03/2025 00:11,456,ueransim-gnb,CPU
+07/03/2025 00:11,453,ueransim-gnb,CPU
+07/03/2025 00:11,452,ueransim-gnb,CPU
+07/03/2025 00:11,458,ueransim-gnb,CPU
+07/03/2025 00:11,498,ueransim-gnb,CPU
+07/03/2025 00:11,462,ueransim-gnb,CPU
+07/03/2025 00:11,463,ueransim-gnb,CPU
+07/03/2025 00:11,518,ueransim-gnb,CPU
+07/03/2025 00:11,456,ueransim-gnb,CPU
+07/03/2025 00:11,459,ueransim-gnb,CPU
+07/03/2025 00:11,561,ueransim-gnb,CPU
+07/03/2025 00:11,493,ueransim-gnb,CPU
+07/03/2025 00:11,495,ueransim-gnb,Memory
+07/03/2025 00:11,453,ueransim-gnb,Memory
+07/03/2025 00:11,458,ueransim-gnb,Memory
+07/03/2025 00:11,474,ueransim-gnb,Memory
+07/03/2025 00:11,463,ueransim-gnb,Memory
+07/03/2025 00:11,523,ueransim-gnb,Memory
+07/03/2025 00:11,454,ueransim-gnb,Memory
+07/03/2025 00:11,460,ueransim-gnb,Memory
+07/03/2025 00:11,454,ueransim-gnb,Memory
+07/03/2025 00:11,510,ueransim-gnb,Memory
+07/03/2025 00:11,454,ueransim-gnb,Memory
+07/03/2025 00:11,457,ueransim-gnb,Memory
+07/03/2025 00:11,454,ueransim-gnb,Memory
+07/03/2025 00:11,454,ueransim-gnb,Memory
+07/03/2025 00:11,456,ueransim-gnb,Memory
+07/03/2025 00:11,456,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,450,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,460,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,451,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,465,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,458,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,480,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,455,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,456,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,452,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,454,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,462,ueransim-gnb,CPU + Memory
+07/03/2025 00:12,462,ueransim-gnb,CPU + Memory
+07/03/2025 00:12,455,ueransim-gnb,CPU + Memory
