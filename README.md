@@ -1,54 +1,47 @@
-# Project: Metrics Integration and Stress Testing
+# 🚀 Experiment Runner
 
-This project aims to integrate and analyze performance metrics in a Kubernetes environment, using scripts to collect data and tools like ChaosMesh to inject workload and observe system behavior.
-
-## Prerequisites
-
-- Python 3.8+
-- Configured Kubernetes cluster
-- Installed ChaosMesh with GUI
-- Basic command-line tools (kubectl, etc.)
-
-## Steps to Run the Experiment
+## ▶️ Run `experiment-runner.sh`
+Start the experiment by running the script:
 
 ```bash
-#!/bin/bash
-
-# Step 1: Set up environment
-echo "Setting up environment..."
-
-# Step 2: Run experiment-runner.sh
-echo "Running experiment-runner.sh..."
 ./experiment-runner.sh
+```
 
-# Step 3: Deploy a test pod and run sensor_script.py
-echo "Deploying test pod and running sensor_script.py..."
+## 🏗️ Deploy a Test Pod and Run `sensor_script.py`
+Create a test pod in Kubernetes and execute the sensor script:
+
+```bash
 kubectl apply -f test-pod.yaml
 python3 sensor_script.py
+```
 
-# Step 4: Install ChaosMesh with GUI
-echo "Installing ChaosMesh with GUI..."
-# (Include your specific ChaosMesh installation commands here)
-# Example:
-# kubectl create -f https://mirrors.chaos-mesh.org/v2.0.3/chaos-mesh.yaml
-# kubectl port-forward -n chaos-testing svc/chaos-dashboard 2333:2333
+## 🔥 Install Chaos Mesh with GUI
+Install Chaos Mesh with GUI support:
 
-# Step 5: Configure the Keys and Auth for ChaosMesh operation in your Kubernetes Cluster
-echo "Configuring keys and authentication for ChaosMesh..."
-# (Include your specific key and authentication setup commands here)
+```bash
+kubectl apply -f https://mirrors.chaos-mesh.org/latest.yaml
+```
 
-# Step 6: Apply RBAC to enable ChaosMesh to inject workload into the Cluster
-echo "Applying RBAC for ChaosMesh..."
+Once installed, access the GUI to manage stress tests.
+
+## 🔑 Configure Keys and Authentication for Chaos Mesh in Your Kubernetes Cluster
+Ensure that authentication and necessary keys are set up for Chaos Mesh to operate within your Kubernetes cluster.
+
+## 🔧 Apply RBAC to Enable Chaos Mesh to Inject Workload into the Cluster
+To allow Chaos Mesh to inject workloads, apply the necessary Role-Based Access Control (RBAC) settings:
+
+```bash
 kubectl apply -f rbac.yaml
+```
 
-# Step 7: Get the token to input into ChaosMesh GUI
-echo "Getting the token for ChaosMesh GUI..."
-TOKEN=$(kubectl create token account-cluster-manager-qwbio)
-echo "Token: $TOKEN"
+## 🔐 Get the Token for Chaos Mesh GUI Access
+Retrieve the token needed for logging into the Chaos Mesh GUI:
 
-# Step 8: Join CSV files with metrics and stress events
-echo "Joining CSV files..."
-python3 join_metrics.py
+```bash
+kubectl create token account-cluster-manager-qwbio
+```
 
-echo "All steps completed successfully!"
+Use this token to access and manage experiments in the Chaos Mesh GUI.
+
+🎯 **Now you're ready to run experiments and monitor your Kubernetes workloads!** 🚀
 
