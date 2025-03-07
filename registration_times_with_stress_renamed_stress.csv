@@ -351,46 +351,46 @@ Timestamp,Tempo gasto (ms),nf,stress_test
 07/03/2025 00:09,457,UPF,CPU + Memory
 07/03/2025 00:09,466,UPF,CPU + Memory
 07/03/2025 00:09,495,UPF,CPU + Memory
-07/03/2025 00:11,457,ueransim-gnb,CPU
-07/03/2025 00:11,456,ueransim-gnb,CPU
-07/03/2025 00:11,456,ueransim-gnb,CPU
-07/03/2025 00:11,453,ueransim-gnb,CPU
-07/03/2025 00:11,452,ueransim-gnb,CPU
-07/03/2025 00:11,458,ueransim-gnb,CPU
-07/03/2025 00:11,498,ueransim-gnb,CPU
-07/03/2025 00:11,462,ueransim-gnb,CPU
-07/03/2025 00:11,463,ueransim-gnb,CPU
-07/03/2025 00:11,518,ueransim-gnb,CPU
-07/03/2025 00:11,456,ueransim-gnb,CPU
-07/03/2025 00:11,459,ueransim-gnb,CPU
-07/03/2025 00:11,561,ueransim-gnb,CPU
-07/03/2025 00:11,493,ueransim-gnb,CPU
-07/03/2025 00:11,495,ueransim-gnb,Memory
-07/03/2025 00:11,453,ueransim-gnb,Memory
-07/03/2025 00:11,458,ueransim-gnb,Memory
-07/03/2025 00:11,474,ueransim-gnb,Memory
-07/03/2025 00:11,463,ueransim-gnb,Memory
-07/03/2025 00:11,523,ueransim-gnb,Memory
-07/03/2025 00:11,454,ueransim-gnb,Memory
-07/03/2025 00:11,460,ueransim-gnb,Memory
-07/03/2025 00:11,454,ueransim-gnb,Memory
-07/03/2025 00:11,510,ueransim-gnb,Memory
-07/03/2025 00:11,454,ueransim-gnb,Memory
-07/03/2025 00:11,457,ueransim-gnb,Memory
-07/03/2025 00:11,454,ueransim-gnb,Memory
-07/03/2025 00:11,454,ueransim-gnb,Memory
-07/03/2025 00:11,456,ueransim-gnb,Memory
-07/03/2025 00:11,456,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,450,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,460,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,451,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,465,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,458,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,480,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,455,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,456,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,452,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,454,ueransim-gnb,CPU + Memory
-07/03/2025 00:11,462,ueransim-gnb,CPU + Memory
-07/03/2025 00:12,462,ueransim-gnb,CPU + Memory
-07/03/2025 00:12,455,ueransim-gnb,CPU + Memory
+07/03/2025 00:11,457,GNB,CPU
+07/03/2025 00:11,456,GNB,CPU
+07/03/2025 00:11,456,GNB,CPU
+07/03/2025 00:11,453,GNB,CPU
+07/03/2025 00:11,452,GNB,CPU
+07/03/2025 00:11,458,GNB,CPU
+07/03/2025 00:11,498,GNB,CPU
+07/03/2025 00:11,462,GNB,CPU
+07/03/2025 00:11,463,GNB,CPU
+07/03/2025 00:11,518,GNB,CPU
+07/03/2025 00:11,456,GNB,CPU
+07/03/2025 00:11,459,GNB,CPU
+07/03/2025 00:11,561,GNB,CPU
+07/03/2025 00:11,493,GNB,CPU
+07/03/2025 00:11,495,GNB,Memory
+07/03/2025 00:11,453,GNB,Memory
+07/03/2025 00:11,458,GNB,Memory
+07/03/2025 00:11,474,GNB,Memory
+07/03/2025 00:11,463,GNB,Memory
+07/03/2025 00:11,523,GNB,Memory
+07/03/2025 00:11,454,GNB,Memory
+07/03/2025 00:11,460,GNB,Memory
+07/03/2025 00:11,454,GNB,Memory
+07/03/2025 00:11,510,GNB,Memory
+07/03/2025 00:11,454,GNB,Memory
+07/03/2025 00:11,457,GNB,Memory
+07/03/2025 00:11,454,GNB,Memory
+07/03/2025 00:11,454,GNB,Memory
+07/03/2025 00:11,456,GNB,Memory
+07/03/2025 00:11,456,GNB,CPU + Memory
+07/03/2025 00:11,450,GNB,CPU + Memory
+07/03/2025 00:11,460,GNB,CPU + Memory
+07/03/2025 00:11,451,GNB,CPU + Memory
+07/03/2025 00:11,465,GNB,CPU + Memory
+07/03/2025 00:11,458,GNB,CPU + Memory
+07/03/2025 00:11,480,GNB,CPU + Memory
+07/03/2025 00:11,455,GNB,CPU + Memory
+07/03/2025 00:11,456,GNB,CPU + Memory
+07/03/2025 00:11,452,GNB,CPU + Memory
+07/03/2025 00:11,454,GNB,CPU + Memory
+07/03/2025 00:11,462,GNB,CPU + Memory
+07/03/2025 00:12,462,GNB,CPU + Memory
+07/03/2025 00:12,455,GNB,CPU + Memory
