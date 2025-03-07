@@ -79,3 +79,24 @@ plt.title('Histogram of Residuals')
 plt.xlabel('Residuals')
 plt.ylabel('Frequency')
 plt.savefig(os.path.join(plots_dir, 'histogram_residuals.pdf'))
+
+
+
+plt.figure(figsize=(14, 7))
+plt.scatter(df['Tempo_gasto_ms'], model.fittedvalues)
+plt.plot([df['Tempo_gasto_ms'].min(), df['Tempo_gasto_ms'].max()], [df['Tempo_gasto_ms'].min(), df['Tempo_gasto_ms'].max()], 'r--')
+plt.title('Observed vs. Predicted Values')
+plt.xlabel('Observed Values')
+plt.ylabel('Predicted Values')
+plt.savefig(os.path.join(plots_dir, 'observed_vs_predicted.pdf'))
+plt.close()
+
+
+
+plt.figure(figsize=(14, 7))
+sns.kdeplot(model.resid, shade=True)
+plt.title('Density Plot of Residuals')
+plt.xlabel('Residuals')
+plt.ylabel('Density')
+plt.savefig(os.path.join(plots_dir, 'density_plot_residuals.pdf'))
+
