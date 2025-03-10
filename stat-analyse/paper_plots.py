@@ -7,7 +7,7 @@ from statsmodels.graphics.factorplots import interaction_plot
 from statsmodels.formula.api import ols
 
 # Carregar o arquivo CSV
-df = pd.read_csv('../registration_times_with_stress_renamed_stress.csv')
+df = pd.read_csv('../registration_times_with_stress_renamed_stress_wihtout_none.csv')
 
 # Renomear a coluna para um formato mais simples
 df.rename(columns={'Tempo gasto (ms)': 'Tempo_gasto_ms'}, inplace=True)
@@ -34,15 +34,19 @@ colors = sns.color_palette("hsv", len(nf_levels))
 markers = markers[:len(nf_levels)]
 colors = colors[:len(nf_levels)]
 
-plt.figure(figsize=(28, 18))
+plt.figure(figsize=(40, 20))  # Aumenta a largura do gráfico
 interaction_plot(df['stress_test'], df['nf'], df['Tempo_gasto_ms'], markers=markers, colors=colors)
-plt.title('Interaction Plot: Stress Test x NF')
-plt.xlabel('Stress Test')
-plt.ylabel('Registration Time (ms)')
-plt.xticks(rotation=0)
-plt.savefig(os.path.join(plots_dir, 'interaction_plot.pdf'))
-plt.close()
 
+plt.xlabel('Stress Test', fontsize=16)
+plt.ylabel('Registration Time (ms)', fontsize=16)
+plt.xticks(fontsize=14, rotation=0)
+plt.yticks(fontsize=14)
+
+# Posiciona a legenda fora do gráfico
+plt.legend(title=None, fontsize=14, loc='upper left', bbox_to_anchor=(1, 1))
+
+plt.savefig(os.path.join(plots_dir, 'interaction_plot.pdf'), bbox_inches='tight')
+plt.close()
 
 
 
