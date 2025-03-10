@@ -45,7 +45,7 @@ plt.yticks(fontsize=14)
 # Posiciona a legenda fora do gráfico
 plt.legend(title=None, fontsize=14, loc='upper left', bbox_to_anchor=(1, 1))
 
-plt.savefig(os.path.join(plots_dir, 'interaction_plot.pdf'), bbox_inches='tight')
+plt.savefig(os.path.join(plots_dir, 'interaction_plot.png'), bbox_inches='tight')
 plt.close()
 
 
@@ -59,21 +59,21 @@ plt.axhline(0, color='red', linestyle='--')
 plt.title('Residuals vs Fitted')
 plt.xlabel('Fitted Values')
 plt.ylabel('Residuals')
-plt.savefig(os.path.join(plots_dir, 'residuals_vs_fitted.pdf'))
+plt.savefig(os.path.join(plots_dir, 'residuals_vs_fitted.png'))
 plt.close()
 
 # Q-Q Plot
 plt.figure(figsize=(14, 7))
 sm.qqplot(model.resid, line='s')
 plt.title('Q-Q Plot')
-plt.savefig(os.path.join(plots_dir, 'qq_plot.pdf'))
+plt.savefig(os.path.join(plots_dir, 'qq_plot.png'))
 plt.close()
 
 
 plt.figure(figsize=(14, 7))
 sm.graphics.influence_plot(model, criterion="cooks")
 plt.title('Influence Plot (Cook\'s Distance)')
-plt.savefig(os.path.join(plots_dir, 'influence_plot.pdf'))
+plt.savefig(os.path.join(plots_dir, 'influence_plot.png'))
 plt.close()
 
 
@@ -82,7 +82,7 @@ plt.hist(model.resid, bins=30, edgecolor='black')
 plt.title('Histogram of Residuals')
 plt.xlabel('Residuals')
 plt.ylabel('Frequency')
-plt.savefig(os.path.join(plots_dir, 'histogram_residuals.pdf'))
+plt.savefig(os.path.join(plots_dir, 'histogram_residuals.png'))
 
 
 
@@ -92,7 +92,7 @@ plt.plot([df['Tempo_gasto_ms'].min(), df['Tempo_gasto_ms'].max()], [df['Tempo_ga
 plt.title('Observed vs. Predicted Values')
 plt.xlabel('Observed Values')
 plt.ylabel('Predicted Values')
-plt.savefig(os.path.join(plots_dir, 'observed_vs_predicted.pdf'))
+plt.savefig(os.path.join(plots_dir, 'observed_vs_predicted.png'))
 plt.close()
 
 
@@ -102,5 +102,5 @@ sns.kdeplot(model.resid, shade=True)
 plt.title('Density Plot of Residuals')
 plt.xlabel('Residuals')
 plt.ylabel('Density')
-plt.savefig(os.path.join(plots_dir, 'density_plot_residuals.pdf'))
+plt.savefig(os.path.join(plots_dir, 'density_plot_residuals.png'))
 
