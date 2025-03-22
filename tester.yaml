@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: test-my5g
+  annotations:
+    k8s.v1.cni.cncf.io/networks: '[
+     { "name": "n2network", "interface": "eth4", "ips": [ "10.10.2.100/24" ]},
+     { "name": "n3network", "interface": "eth5", "ips": [ "10.10.3.220/24" ] },
+     { "name": "n4network", "interface": "eth6", "ips": [ "10.10.4.111/24" ] }
+    ]'
+  labels:
+    app: test-my5g
+spec:
+  containers:
+  - name: test-my5g
+    imagePullPolicy: IfNotPresent
+    image: moreirar/test-my5g:v1.6
+    command: ["/bin/bash", "-c", "while true; do sleep 30; done;"]
+    securityContext:
+      capabilities:
+        add: ["NET_ADMIN"]  # Adiciona a capacidade de manipular interfaces de rede
+      privileged: true  # Permite permissões mais amplas no contêiner
